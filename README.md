@@ -169,8 +169,8 @@ __pycache__/
 ## 🙋 Author
 
 **Your Name**
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- GitHub: [github.com/your-username](https://github.com/your-username)
+- LinkedIn: [linkedin.com/in/srikanth-data](www.linkedin.com/in/srikanth-data)
+- Gmail:chavalasrikanth09@gmail.com
 
 ---
 
